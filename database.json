@@ -1,0 +1,8 @@
+{
+  "posts": [
+    { "id": "1", "title": "My first post", "content": "First post!" },
+    { "id": "2", "title": "My second post", "content": "Second post" },
+    { "id": "3", "title": "나의 세번째 포스트", "content": "세번째 포스트" },
+    { "id": "4", "title": "foo", "content": "bar" }
+  ]
+}
